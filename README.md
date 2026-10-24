@@ -4,6 +4,8 @@ member 2 :Arshaan Shaikh
 member 3 :Arnav Rampurkar
 member 4 :Kavindra senapati
 
+Final Protype: https://www.figma.com/proto/ouKI2idNfaFmuaz9Fs02QL/FamApp-Redesign---Hi-Fi--Interactive-?node-id=2-2&p=f&t=3D570SF05lxfspnL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+
 Conclusion:
 
 Overview
